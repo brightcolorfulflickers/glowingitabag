@@ -2,8 +2,6 @@
 
 A glowing LED ita bag for your anime charms.
 
-![Glowing Ita Bag](https://github.com/brightcolorfulflickers/glowingitabag/blob/master/photos/glowingitabag.jpg)
-
 ## About
 
 Ita bags are a way for fans to display anime charms for their favorite character/show/pairing/etc. This one GLOWS!
@@ -14,4 +12,8 @@ Please see my [instructable]() for detailed instructions and bill of materials. 
 
 ## Schematic
 
-![Schematic](https://github.com/brightcolorfulflickers/glowingitabag/blob/master/schematic/itabagschematic)
+![Schematic](https://github.com/brightcolorfulflickers/glowingitabag/blob/master/schematic/itabagschematic.png)
+
+## Photo
+
+![Glowing Ita Bag](https://github.com/brightcolorfulflickers/glowingitabag/blob/master/photos/glowingitabag.jpg)
