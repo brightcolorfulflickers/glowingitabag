@@ -8,7 +8,7 @@ Ita bags are a way for fans to display anime charms for their favorite character
 
 ## Instructions
 
-Please see my [instructable]() for detailed instructions and bill of materials. As an overview... LEDs are mounted on a heart-shaped piece of acrylic. Some quilt batting and fabric are added for diffusion. Then a layer of decorative fabric with charms is placed on top.
+Please see my [instructable](https://www.instructables.com/id/Glowing-LED-Ita-Bag/) for detailed instructions and bill of materials. As an overview... LEDs are mounted on a heart-shaped piece of acrylic. Some quilt batting and fabric are added for diffusion. Then a layer of decorative fabric with charms is placed on top.
 
 ## Schematic
 
